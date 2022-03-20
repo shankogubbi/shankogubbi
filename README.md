@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Shankara C P!
+- 👀 I'm interested in `Python and C Programming`
+- 🌱 I'm currently learning `Python Syntax`
+- 📫 How to reach me:
+	- [Gmail](mailto:shankogubbi@gmail.com)
